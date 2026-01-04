@@ -36,3 +36,9 @@ The Kana Quiz is a simple Japanese learning tool designed to practice **Hiragana
    Run the Python script or the `.exe`:  
    ```bash
    python hiragana_quiz.py
+
+## 操作示意
+- 測驗過程
+![測驗畫面](images/image_1.png)
+- 測驗結果
+![結果畫面](images/image_2.png)
